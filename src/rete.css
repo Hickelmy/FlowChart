@@ -1,0 +1,10 @@
+.rete {
+  position: relative;
+  width: 80vw;
+  height: 90vh;
+  font-size: 1rem;
+  background: rgb(207, 207, 207);
+  margin: 1em;
+  border-radius: 1em;
+  text-align: left;
+}
